@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/ShopBridge/Api/bin/Debug/netcoreapp3.1
+/src/ShopBridge/Api/obj
+/src/ShopBridge/.vs/ShopBridge/v16
+/.vs
+/src/ShopBridge/UnitTests/bin/Debug/netcoreapp3.1
+/src/ShopBridge/UnitTests/obj
+/src/ShopBridge/.vs/ShopBridge
