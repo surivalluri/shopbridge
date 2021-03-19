@@ -11,6 +11,11 @@ Shop bridge application of ThinkBridge assement
 
 /api/shopbridge/products/{productId} - HttpDelete - ToDelete
 
+# validations
+
+1. Used FluentValidations for domain model validations
+2. Used the ModelState validations for model errors
+
 # datastore
 
 Used the Local Sql file (.mdf)
